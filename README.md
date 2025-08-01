@@ -1,6 +1,6 @@
 # Rocket Booster 🚀
 
-> A multi-level space navigation game developed in the Unity Engine where players pilot a rocket through challenging obstacle courses.
+> A multi-level space navigation game developed in the Unity Engine where players pilot a rocket through challenging obstacle coures.
 
 ### Gameplay GIF
 ![Rocket Booster Gameplay GIF![Image](https://github.com/user-attachments/assets/dcb3a8ab-e2ff-4d88-b245-8b3b0fa11703)
